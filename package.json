@@ -9,6 +9,10 @@
   "keywords": [],
   "author": "LARX",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GO4TCODES/green-black-tea.git"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "body-parser": "^1.19.0",
