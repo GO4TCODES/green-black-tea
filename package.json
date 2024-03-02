@@ -1,13 +1,13 @@
 {
   "name": "green-black-tea",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TEA Project",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "LARX",
+  "author": "GO4TCODES",
   "license": "MIT",
   "repository": {
     "type": "git",
